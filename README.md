@@ -2,6 +2,9 @@
 
 This project demonstrates how to control an LED connected to an ESP32 board over WiFi using HTTP requests. It includes a Python script for the ESP32 and instructions for setting up a simple Kotlin Android app to interact with the ESP32.
 
+## Related
+- [Kotlin Simple Client for ESP32]([https://github.com/Cabzla/ESP32-Simple-Com-for-Android](https://github.com/Cabzla/AndroidClientESP32)): Counterpart ESP32 project for this ESP32 Code.
+
 ## Features
 
 - Connects to a specified WiFi network.
